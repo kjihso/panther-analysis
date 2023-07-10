@@ -1,0 +1,4 @@
+AnalysisType: global
+Description: Dataclasses for holding parsed GCP event data
+Filename: gcp_event_data.py
+GlobalID: "gcp_event_data"
